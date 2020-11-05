@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eyaka\\source\\repos\\RessourcesHumaines\\RessourcesHumaines\\RessourcesHumaines.csproj": {}
+    "C:\\Users\\sayeh\\OneDrive\\Bureau\\MPSD\\RessourcesHumaines\\RessourcesHumaines\\RessourcesHumaines.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eyaka\\source\\repos\\RessourcesHumaines\\RessourcesHumaines\\RessourcesHumaines.csproj": {
+    "C:\\Users\\sayeh\\OneDrive\\Bureau\\MPSD\\RessourcesHumaines\\RessourcesHumaines\\RessourcesHumaines.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eyaka\\source\\repos\\RessourcesHumaines\\RessourcesHumaines\\RessourcesHumaines.csproj",
+        "projectUniqueName": "C:\\Users\\sayeh\\OneDrive\\Bureau\\MPSD\\RessourcesHumaines\\RessourcesHumaines\\RessourcesHumaines.csproj",
         "projectName": "RessourcesHumaines",
-        "projectPath": "C:\\Users\\eyaka\\source\\repos\\RessourcesHumaines\\RessourcesHumaines\\RessourcesHumaines.csproj",
-        "packagesPath": "C:\\Users\\eyaka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eyaka\\source\\repos\\RessourcesHumaines\\RessourcesHumaines\\obj\\",
+        "projectPath": "C:\\Users\\sayeh\\OneDrive\\Bureau\\MPSD\\RessourcesHumaines\\RessourcesHumaines\\RessourcesHumaines.csproj",
+        "packagesPath": "C:\\Users\\sayeh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sayeh\\OneDrive\\Bureau\\MPSD\\RessourcesHumaines\\RessourcesHumaines\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\eyaka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sayeh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
