@@ -18,7 +18,7 @@ namespace VenteApi.Models
         public int Id { get; set; }
         [Column("idProduit")]
         [Required]
-        public string IdProduit { get; set; }
+        public int IdProduit { get; set; }
         [Column("quantite")]
         [Required]
         public int Quantite { get; set; }

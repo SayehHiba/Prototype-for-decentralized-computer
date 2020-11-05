@@ -9960,11 +9960,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sayeh\\source\\repos\\test\\VenteApi\\VenteApi\\VenteApi.csproj",
+      "projectUniqueName": "C:\\Users\\sayeh\\source\\repos\\test2\\VenteApi\\VenteApi\\VenteApi.csproj",
       "projectName": "VenteApi",
-      "projectPath": "C:\\Users\\sayeh\\source\\repos\\test\\VenteApi\\VenteApi\\VenteApi.csproj",
+      "projectPath": "C:\\Users\\sayeh\\source\\repos\\test2\\VenteApi\\VenteApi\\VenteApi.csproj",
       "packagesPath": "C:\\Users\\sayeh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sayeh\\source\\repos\\test\\VenteApi\\VenteApi\\obj\\",
+      "outputPath": "C:\\Users\\sayeh\\source\\repos\\test2\\VenteApi\\VenteApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sayeh\\AppData\\Roaming\\NuGet\\NuGet.Config",

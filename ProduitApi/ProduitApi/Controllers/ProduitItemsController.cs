@@ -1,11 +1,21 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data.Entity.Core.Objects;
+using System.Data.Entity.Infrastructure;
+using System.Diagnostics;
 using System.Linq;
+using System.Net.Http;
+using System.Text;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Data.SqlClient;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
+using Newtonsoft.Json;
 using ProduitApi.Models;
+using RabbitMQ.Client;
+using RabbitMQ.Client.Events;
 
 namespace ProduitApi
 {
@@ -14,12 +24,14 @@ namespace ProduitApi
     public class ProduitItemsController : ControllerBase
     {
         private readonly ProduitContext _context;
+        private static  ProduitContext _contexttest;
 
-        
         public ProduitItemsController(ProduitContext context)
         {
             _context = context;
+            _contexttest = _context;
         }
+
 
         // GET: /ProduitItems
         [HttpGet]
@@ -27,7 +39,7 @@ namespace ProduitApi
         {
             return await _context.ProduitItems.ToListAsync();
         }
-
+        
         // GET: /ProduitItems/5
         [HttpGet("{id}")]
         public async Task<ActionResult<ProduitItem>> GetProduitItem(int id)
@@ -38,7 +50,6 @@ namespace ProduitApi
             {
                 return NotFound();
             }
-
             return produitItem;
         }
 
@@ -59,7 +70,7 @@ namespace ProduitApi
             {
                 await _context.SaveChangesAsync();
             }
-            catch (DbUpdateConcurrencyException)
+            catch (System.Data.Entity.Infrastructure.DbUpdateConcurrencyException)
             {
                 if (!ProduitItemExists(id))
                 {
@@ -70,8 +81,11 @@ namespace ProduitApi
                     throw;
                 }
             }
-
-            return NoContent();
+            
+            NoContentResult res= NoContent();
+            Debug.WriteLine("\n\n" + res.ToString()+ "\n\n");
+           
+            return res;
         }
 
         // POST: api/ProduitItems
@@ -106,5 +120,6 @@ namespace ProduitApi
         {
             return _context.ProduitItems.Any(e => e.Id == id);
         }
+       
     }
-}
+    }

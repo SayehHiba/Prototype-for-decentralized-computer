@@ -6,10 +6,11 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using VenteApi.Models;
+using System.Text;
 using RabbitMQ.Client;
-using RitegeQueueManager.Implement;
-using RitegeQueueManager.Model;
-using System.Diagnostics;
+using RabbitMQ.Client.Events;
+using System.Threading;
+using Newtonsoft.Json;
 
 namespace VenteApi.Controllers
 {
@@ -17,7 +18,6 @@ namespace VenteApi.Controllers
     [ApiController]
     public class VenteItemsController : ControllerBase
     {
-        static string reponse;
         private readonly VenteContext _context;
 
         public VenteItemsController(VenteContext context)
@@ -57,46 +57,75 @@ namespace VenteApi.Controllers
         [HttpPost]
         public async Task<ActionResult<VenteItem>> PostVenteItem(VenteItem venteItem)
         {
-
-
-            reponse = "vide";
+            int a = 0;
 
             Task<IConnection> connection = ConnexionSingleton.Connexion("localhost", "guest", "guest", new ConnectionFactory());
-            RabbitMQManager rabbitMQManager = new RabbitMQManager(connection.Result.CreateModel());
-            List<object> list = new List<object>();
-            list.Add(venteItem.IdProduit);
-            list.Add(venteItem.Quantite);
-            DescriptionMessage descriptionMessage = new DescriptionMessage("Controllers", "ProduitItemsController", list);
-            rabbitMQManager.OnRecupererReponse += TraiterReponseAuthentification;
-            rabbitMQManager.PublierMessage(descriptionMessage, RitegeQueueManager.Interface.Type.BD);
+            IModel channel = connection.Result.CreateModel();
 
-            while (reponse == "vide") { }
-            Debug.WriteLine(reponse.ToString());
-            if(reponse=="Valide")
 
-            { 
+            channel.QueueDeclare("mycompany.queues.rpc", true, false, false, null);
+            //SendRpcMessagesBackAndForth(channel);
 
-            _context.ProduitItems.Add(venteItem);
-            await _context.SaveChangesAsync();
 
-            return CreatedAtAction("GetVenteItem", new { id = venteItem.Id }, venteItem);
+            string rpcResponseQueue = channel.QueueDeclare().QueueName;
+
+            string correlationId = Guid.NewGuid().ToString();
+            string responseFromConsumer = null;
+
+            IBasicProperties basicProperties = channel.CreateBasicProperties();
+            basicProperties.ReplyTo = rpcResponseQueue;
+            basicProperties.CorrelationId = correlationId;
+
+            string message = JsonConvert.SerializeObject(venteItem);
+            byte[] messageBytes = Encoding.UTF8.GetBytes(message);
+            channel.BasicPublish("", "mycompany.queues.rpc", basicProperties, messageBytes);
+
+            EventingBasicConsumer rpcEventingBasicConsumer = new EventingBasicConsumer(channel);
+            rpcEventingBasicConsumer.Received +=(sender, basicDeliveryEventArgs) =>
+            {
+                IBasicProperties props = basicDeliveryEventArgs.BasicProperties;
+                if (props != null
+                    && props.CorrelationId == correlationId)
+                {
+                    string response = Encoding.UTF8.GetString(basicDeliveryEventArgs.Body.ToArray());
+                    responseFromConsumer = response;
+                }
+                channel.BasicAck(basicDeliveryEventArgs.DeliveryTag, false);
+
+                if (responseFromConsumer.Equals("Valide"))
+                {
+                    
+                    a = 1;
+                }
+              
+                   };
+            channel.BasicConsume(rpcResponseQueue, false, rpcEventingBasicConsumer);
+
+
+            channel.Close();
+            connection.Result.Close();
+
+            if (a == 1)
+            {
+                _context.ProduitItems.Add(venteItem);
+                await _context.SaveChangesAsync();
+                return CreatedAtAction("GetVenteItem", new { id = venteItem.Id }, venteItem);
+
             }
             else
             {
                 return null;
             }
+            
+
+
+
+
+            //end
+
         }
 
-        private void TraiterReponseAuthentification(object sender, MessageBodyEvent e)
-        {
-
-            if (e.Message.Equals("null"))
-            {
-                reponse = null;
-            }
-            else { reponse = e.Message; }
-        }
-
+       
         private bool VenteItemExists(int id)
         {
             return _context.ProduitItems.Any(e => e.Id == id);

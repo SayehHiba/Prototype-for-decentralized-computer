@@ -13,14 +13,69 @@ using Microsoft.Extensions.Logging;
 using Microsoft.EntityFrameworkCore;
 using ProduitApi.Models;
 using Microsoft.OpenApi.Models;
+using RabbitMQ.Client;
+using RabbitMQ.Client.Events;
+using System.Text;
+using Newtonsoft.Json;
+using System.Diagnostics;
 
 namespace ProduitApi
 {
     public class Startup
     {
+
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
+
+           Task<IConnection> connection = ConnexionSingleton.Connexion("localhost", "guest", "guest", new ConnectionFactory());
+            IModel channel = connection.Result.CreateModel();
+
+
+            channel.BasicQos(0, 1, false);
+            EventingBasicConsumer eventingBasicConsumer = new EventingBasicConsumer(channel);
+
+            eventingBasicConsumer.Received +=  (sender, basicDeliveryEventArgs) =>
+            {
+               // string response;
+                string message = Encoding.UTF8.GetString(basicDeliveryEventArgs.Body.ToArray());
+                VenteItem vente = JsonConvert.DeserializeObject<VenteItem>(message);
+                channel.BasicAck(basicDeliveryEventArgs.DeliveryTag, false);
+
+
+                TraiterMessageConsommer.Traitement(vente);
+                Debug.WriteLine("\n\n fin \n\n");
+                /* Debug.WriteLine("\n\n"+produitItem.Result.ToString()+ "\n\n");
+                  while (test == null) { }
+                  ProduitItem item = JsonConvert.DeserializeObject<ProduitItem>(ProduitItemsController.test);
+                  Debug.WriteLine("\n\n" + " item: " + item.Id + " / " + item.Nom + " / " + item.Stock + " / " + "\n\n");
+                  if (item.Stock >= vente.Quantite)
+                  {
+                      item.Stock -= vente.Quantite;
+                      Task<IActionResult> pp = PutProduitItem(item.Id, item);
+                      Debug.WriteLine("\n\n" + pp.ToString() + "\n\n");
+                      if (pp.ToString().Equals("Microsoft.AspNetCore.Mvc.NoContentResult"))
+                      {
+                          response = "Valide";
+                      }
+                      else { response = "Non"; }
+
+                  }
+                  else { response = "Non"; }
+
+
+
+
+                  Debug.WriteLine("\n\n" + " Message: " + message + " Enter your response: " + response + "\n\n");
+                  IBasicProperties replyBasicProperties = channel.CreateBasicProperties();
+                  replyBasicProperties.CorrelationId = basicDeliveryEventArgs.BasicProperties.CorrelationId;
+                  byte[] responseBytes = Encoding.UTF8.GetBytes(response);
+                  channel.BasicPublish("", basicDeliveryEventArgs.BasicProperties.ReplyTo, replyBasicProperties, responseBytes);
+             */
+            };
+               
+
+            channel.BasicConsume("mycompany.queues.rpc", false, eventingBasicConsumer);
         }
 
         public IConfiguration Configuration { get; }
@@ -32,7 +87,7 @@ namespace ProduitApi
             services.AddDbContext<ProduitContext>
             (o => o.UseMySQL(Configuration.
              GetConnectionString("MyDb")));
-            
+
             services.AddControllers();
 
             services.AddSwaggerGen(c =>

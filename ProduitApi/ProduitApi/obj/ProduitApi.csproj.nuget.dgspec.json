@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sayeh\\source\\repos\\test\\ProduitApi\\ProduitApi\\ProduitApi.csproj": {}
+    "C:\\Users\\sayeh\\source\\repos\\test2\\ProduitApi\\ProduitApi\\ProduitApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sayeh\\source\\repos\\test\\ProduitApi\\ProduitApi\\ProduitApi.csproj": {
+    "C:\\Users\\sayeh\\source\\repos\\test2\\ProduitApi\\ProduitApi\\ProduitApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sayeh\\source\\repos\\test\\ProduitApi\\ProduitApi\\ProduitApi.csproj",
+        "projectUniqueName": "C:\\Users\\sayeh\\source\\repos\\test2\\ProduitApi\\ProduitApi\\ProduitApi.csproj",
         "projectName": "ProduitApi",
-        "projectPath": "C:\\Users\\sayeh\\source\\repos\\test\\ProduitApi\\ProduitApi\\ProduitApi.csproj",
+        "projectPath": "C:\\Users\\sayeh\\source\\repos\\test2\\ProduitApi\\ProduitApi\\ProduitApi.csproj",
         "packagesPath": "C:\\Users\\sayeh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sayeh\\source\\repos\\test\\ProduitApi\\ProduitApi\\obj\\",
+        "outputPath": "C:\\Users\\sayeh\\source\\repos\\test2\\ProduitApi\\ProduitApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sayeh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -38,6 +38,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Microsoft.AspNet.WebApi.Core": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[3.1.8, )"
