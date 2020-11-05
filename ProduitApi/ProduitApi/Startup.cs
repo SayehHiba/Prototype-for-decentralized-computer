@@ -18,66 +18,36 @@ using RabbitMQ.Client.Events;
 using System.Text;
 using Newtonsoft.Json;
 using System.Diagnostics;
+using RabbitMQManager.Models;
+using RabbitMQManager.Implement;
+using MessageConsommer.Implement;
+using MessageConsommer.Models;
+using MySql.Data;
 
 namespace ProduitApi
 {
     public class Startup
     {
-
+        static RabbitMQContext rabbitMQContext;
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
 
            Task<IConnection> connection = ConnexionSingleton.Connexion("localhost", "guest", "guest", new ConnectionFactory());
-            IModel channel = connection.Result.CreateModel();
+            rabbitMQContext = new RabbitMQContext(connection.Result.CreateModel());
+            rabbitMQContext.OnConsommerMessage += TraiterReq;
+            rabbitMQContext.ConsommerMessage();
 
-
-            channel.BasicQos(0, 1, false);
-            EventingBasicConsumer eventingBasicConsumer = new EventingBasicConsumer(channel);
-
-            eventingBasicConsumer.Received +=  (sender, basicDeliveryEventArgs) =>
-            {
-               // string response;
-                string message = Encoding.UTF8.GetString(basicDeliveryEventArgs.Body.ToArray());
-                VenteItem vente = JsonConvert.DeserializeObject<VenteItem>(message);
-                channel.BasicAck(basicDeliveryEventArgs.DeliveryTag, false);
-
-
-                TraiterMessageConsommer.Traitement(vente);
-                Debug.WriteLine("\n\n fin \n\n");
-                /* Debug.WriteLine("\n\n"+produitItem.Result.ToString()+ "\n\n");
-                  while (test == null) { }
-                  ProduitItem item = JsonConvert.DeserializeObject<ProduitItem>(ProduitItemsController.test);
-                  Debug.WriteLine("\n\n" + " item: " + item.Id + " / " + item.Nom + " / " + item.Stock + " / " + "\n\n");
-                  if (item.Stock >= vente.Quantite)
-                  {
-                      item.Stock -= vente.Quantite;
-                      Task<IActionResult> pp = PutProduitItem(item.Id, item);
-                      Debug.WriteLine("\n\n" + pp.ToString() + "\n\n");
-                      if (pp.ToString().Equals("Microsoft.AspNetCore.Mvc.NoContentResult"))
-                      {
-                          response = "Valide";
-                      }
-                      else { response = "Non"; }
-
-                  }
-                  else { response = "Non"; }
-
-
-
-
-                  Debug.WriteLine("\n\n" + " Message: " + message + " Enter your response: " + response + "\n\n");
-                  IBasicProperties replyBasicProperties = channel.CreateBasicProperties();
-                  replyBasicProperties.CorrelationId = basicDeliveryEventArgs.BasicProperties.CorrelationId;
-                  byte[] responseBytes = Encoding.UTF8.GetBytes(response);
-                  channel.BasicPublish("", basicDeliveryEventArgs.BasicProperties.ReplyTo, replyBasicProperties, responseBytes);
-             */
-            };
-               
-
-            channel.BasicConsume("mycompany.queues.rpc", false, eventingBasicConsumer);
         }
 
+        private void TraiterReq(object sender, MessageBodyEvent e)
+        {
+
+            VenteItem vente = JsonConvert.DeserializeObject<VenteItem>(e.Message);
+           string res = Traitement.GérerStock(vente).Result;
+            rabbitMQContext.publierReponse(e, res);
+        
+        }
         public IConfiguration Configuration { get; }
 
         // This method gets called by the runtime. Use this method to add services to the container.

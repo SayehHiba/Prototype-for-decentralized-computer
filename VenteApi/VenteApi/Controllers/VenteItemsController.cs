@@ -11,6 +11,8 @@ using RabbitMQ.Client;
 using RabbitMQ.Client.Events;
 using System.Threading;
 using Newtonsoft.Json;
+using RabbitMQManager.Models;
+using RabbitMQManager.Implement;
 
 namespace VenteApi.Controllers
 {
@@ -19,7 +21,7 @@ namespace VenteApi.Controllers
     public class VenteItemsController : ControllerBase
     {
         private readonly VenteContext _context;
-
+        static string reponse;
         public VenteItemsController(VenteContext context)
         {
             _context = context;
@@ -57,75 +59,35 @@ namespace VenteApi.Controllers
         [HttpPost]
         public async Task<ActionResult<VenteItem>> PostVenteItem(VenteItem venteItem)
         {
-            int a = 0;
+          
+            reponse = "";
 
             Task<IConnection> connection = ConnexionSingleton.Connexion("localhost", "guest", "guest", new ConnectionFactory());
-            IModel channel = connection.Result.CreateModel();
-
-
-            channel.QueueDeclare("mycompany.queues.rpc", true, false, false, null);
-            //SendRpcMessagesBackAndForth(channel);
-
-
-            string rpcResponseQueue = channel.QueueDeclare().QueueName;
-
-            string correlationId = Guid.NewGuid().ToString();
-            string responseFromConsumer = null;
-
-            IBasicProperties basicProperties = channel.CreateBasicProperties();
-            basicProperties.ReplyTo = rpcResponseQueue;
-            basicProperties.CorrelationId = correlationId;
-
+            RabbitMQContext rabbitMQContext = new RabbitMQContext(connection.Result.CreateModel());
             string message = JsonConvert.SerializeObject(venteItem);
-            byte[] messageBytes = Encoding.UTF8.GetBytes(message);
-            channel.BasicPublish("", "mycompany.queues.rpc", basicProperties, messageBytes);
-
-            EventingBasicConsumer rpcEventingBasicConsumer = new EventingBasicConsumer(channel);
-            rpcEventingBasicConsumer.Received +=(sender, basicDeliveryEventArgs) =>
-            {
-                IBasicProperties props = basicDeliveryEventArgs.BasicProperties;
-                if (props != null
-                    && props.CorrelationId == correlationId)
-                {
-                    string response = Encoding.UTF8.GetString(basicDeliveryEventArgs.Body.ToArray());
-                    responseFromConsumer = response;
-                }
-                channel.BasicAck(basicDeliveryEventArgs.DeliveryTag, false);
-
-                if (responseFromConsumer.Equals("Valide"))
-                {
-                    
-                    a = 1;
-                }
-              
-                   };
-            channel.BasicConsume(rpcResponseQueue, false, rpcEventingBasicConsumer);
-
-
-            channel.Close();
-            connection.Result.Close();
-
-            if (a == 1)
+            rabbitMQContext.OnRecupererReponse += TraiterReponse;
+            rabbitMQContext.PublierMessage(message);
+            while (reponse == ""){  }
+            if (reponse == "Valide")
             {
                 _context.ProduitItems.Add(venteItem);
                 await _context.SaveChangesAsync();
                 return CreatedAtAction("GetVenteItem", new { id = venteItem.Id }, venteItem);
 
             }
-            else
-            {
-                return null;
-            }
-            
+            else { return null; }
 
-
-
-
-            //end
 
         }
 
-       
+       private void TraiterReponse(object sender,MessageBodyEvent e)
+        {
+            if (e.Message.Equals("Valide"))
+            {
+                reponse = "Valide";
+            }else { reponse = "nonValide"; }
+
+        }
         private bool VenteItemExists(int id)
         {
             return _context.ProduitItems.Any(e => e.Id == id);

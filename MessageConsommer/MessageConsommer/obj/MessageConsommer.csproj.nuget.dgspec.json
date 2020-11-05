@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sayeh\\OneDrive\\Bureau\\mini projet systemes distribués\\mini projet systemes distribués\\MessageConsommer\\MessageConsommer\\MessageConsommer.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sayeh\\OneDrive\\Bureau\\mini projet systemes distribués\\mini projet systemes distribués\\MessageConsommer\\MessageConsommer\\MessageConsommer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sayeh\\OneDrive\\Bureau\\mini projet systemes distribués\\mini projet systemes distribués\\MessageConsommer\\MessageConsommer\\MessageConsommer.csproj",
+        "projectName": "MessageConsommer",
+        "projectPath": "C:\\Users\\sayeh\\OneDrive\\Bureau\\mini projet systemes distribués\\mini projet systemes distribués\\MessageConsommer\\MessageConsommer\\MessageConsommer.csproj",
+        "packagesPath": "C:\\Users\\sayeh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sayeh\\OneDrive\\Bureau\\mini projet systemes distribués\\mini projet systemes distribués\\MessageConsommer\\MessageConsommer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sayeh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.22, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

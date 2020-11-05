@@ -1,0 +1,5 @@
+C:\Users\Maroua\source\repos\RabbitMQManger\RabbitMQManger\bin\Debug\netstandard2.0\RabbitMQManger.deps.json
+C:\Users\Maroua\source\repos\RabbitMQManger\RabbitMQManger\bin\Debug\netstandard2.0\RabbitMQManger.dll
+C:\Users\Maroua\source\repos\RabbitMQManger\RabbitMQManger\obj\Debug\netstandard2.0\RabbitMQManger.csprojAssemblyReference.cache
+C:\Users\Maroua\source\repos\RabbitMQManger\RabbitMQManger\obj\Debug\netstandard2.0\RabbitMQManger.AssemblyInfoInputs.cache
+C:\Users\Maroua\source\repos\RabbitMQManger\RabbitMQManger\obj\Debug\netstandard2.0\RabbitMQManger.AssemblyInfo.cs

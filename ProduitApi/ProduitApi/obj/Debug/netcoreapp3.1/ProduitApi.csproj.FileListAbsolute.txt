@@ -355,3 +355,563 @@ C:\Users\sayeh\source\repos\test2\ProduitApi\ProduitApi\obj\Debug\netcoreapp3.1\
 C:\Users\sayeh\source\repos\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
 C:\Users\sayeh\source\repos\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\System.Web.Http.dll
 C:\Users\sayeh\source\repos\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\ProduitApi.exe
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\ProduitApi.deps.json
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\ProduitApi.runtimeconfig.json
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\ProduitApi.runtimeconfig.dev.json
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\ProduitApi.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\ProduitApi.pdb
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\EntityFramework.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\MySql.Data.EntityFrameworkCore.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\obj\Debug\netcoreapp3.1\ProduitApi.csprojAssemblyReference.cache
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\obj\Debug\netcoreapp3.1\ProduitApi.AssemblyInfoInputs.cache
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\obj\Debug\netcoreapp3.1\ProduitApi.AssemblyInfo.cs
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\obj\Debug\netcoreapp3.1\ProduitApi.csproj.CoreCompileInputs.cache
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\obj\Debug\netcoreapp3.1\ProduitApi.MvcApplicationPartsAssemblyInfo.cs
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\obj\Debug\netcoreapp3.1\ProduitApi.MvcApplicationPartsAssemblyInfo.cache
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\obj\Debug\netcoreapp3.1\ProduitApi.RazorTargetAssemblyInfo.cache
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\obj\Debug\netcoreapp3.1\ProduitApi.csproj.CopyComplete
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\obj\Debug\netcoreapp3.1\staticwebassets\ProduitApi.StaticWebAssets.Manifest.cache
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\obj\Debug\netcoreapp3.1\staticwebassets\ProduitApi.StaticWebAssets.xml
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\obj\Debug\netcoreapp3.1\ProduitApi.dll
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\obj\Debug\netcoreapp3.1\ProduitApi.pdb
+D:\MPSD Projet\test2\ProduitApi\ProduitApi\obj\Debug\netcoreapp3.1\ProduitApi.genruntimeconfig.cache
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\ProduitApi.exe
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\ProduitApi.deps.json
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\ProduitApi.runtimeconfig.json
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\ProduitApi.runtimeconfig.dev.json
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\ProduitApi.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\ProduitApi.pdb
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\EntityFramework.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\MySql.Data.EntityFrameworkCore.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\MessageConsommer.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\RabbitMQManager.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\MessageConsommer.pdb
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\RabbitMQManager.pdb
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\obj\Debug\netcoreapp3.1\ProduitApi.csprojAssemblyReference.cache
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\obj\Debug\netcoreapp3.1\ProduitApi.AssemblyInfoInputs.cache
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\obj\Debug\netcoreapp3.1\ProduitApi.AssemblyInfo.cs
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\obj\Debug\netcoreapp3.1\ProduitApi.csproj.CoreCompileInputs.cache
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\obj\Debug\netcoreapp3.1\ProduitApi.MvcApplicationPartsAssemblyInfo.cs
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\obj\Debug\netcoreapp3.1\ProduitApi.MvcApplicationPartsAssemblyInfo.cache
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\obj\Debug\netcoreapp3.1\ProduitApi.RazorTargetAssemblyInfo.cache
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\obj\Debug\netcoreapp3.1\ProduitApi.csproj.CopyComplete
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\obj\Debug\netcoreapp3.1\staticwebassets\ProduitApi.StaticWebAssets.Manifest.cache
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\obj\Debug\netcoreapp3.1\staticwebassets\ProduitApi.StaticWebAssets.xml
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\obj\Debug\netcoreapp3.1\ProduitApi.dll
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\obj\Debug\netcoreapp3.1\ProduitApi.pdb
+D:\mini projet systemes distribués\ProduitApi\ProduitApi\obj\Debug\netcoreapp3.1\ProduitApi.genruntimeconfig.cache
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\ProduitApi.exe
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\ProduitApi.deps.json
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\ProduitApi.runtimeconfig.json
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\ProduitApi.runtimeconfig.dev.json
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\ProduitApi.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\ProduitApi.pdb
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\MySql.Data.EntityFrameworkCore.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\MessageConsommer.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\RabbitMQManager.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\MessageConsommer.pdb
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\bin\Debug\netcoreapp3.1\RabbitMQManager.pdb
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\obj\Debug\netcoreapp3.1\ProduitApi.csprojAssemblyReference.cache
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\obj\Debug\netcoreapp3.1\ProduitApi.AssemblyInfoInputs.cache
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\obj\Debug\netcoreapp3.1\ProduitApi.AssemblyInfo.cs
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\obj\Debug\netcoreapp3.1\ProduitApi.csproj.CoreCompileInputs.cache
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\obj\Debug\netcoreapp3.1\ProduitApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\obj\Debug\netcoreapp3.1\ProduitApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\obj\Debug\netcoreapp3.1\ProduitApi.RazorTargetAssemblyInfo.cache
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\obj\Debug\netcoreapp3.1\ProduitApi.csproj.CopyComplete
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\obj\Debug\netcoreapp3.1\staticwebassets\ProduitApi.StaticWebAssets.Manifest.cache
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\obj\Debug\netcoreapp3.1\staticwebassets\ProduitApi.StaticWebAssets.xml
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\obj\Debug\netcoreapp3.1\ProduitApi.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\obj\Debug\netcoreapp3.1\ProduitApi.pdb
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\ProduitApi\ProduitApi\obj\Debug\netcoreapp3.1\ProduitApi.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageConsommer", "MessageConsommer\MessageConsommer.csproj", "{5333E85D-2C8B-4ADB-B868-A23E91EFA70A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5333E85D-2C8B-4ADB-B868-A23E91EFA70A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5333E85D-2C8B-4ADB-B868-A23E91EFA70A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5333E85D-2C8B-4ADB-B868-A23E91EFA70A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5333E85D-2C8B-4ADB-B868-A23E91EFA70A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9E63B9D-0BDF-437B-9E5D-BEFAC8F324FF}
+	EndGlobalSection
+EndGlobal

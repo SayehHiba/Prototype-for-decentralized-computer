@@ -24,12 +24,11 @@ namespace ProduitApi
     public class ProduitItemsController : ControllerBase
     {
         private readonly ProduitContext _context;
-        private static  ProduitContext _contexttest;
+        
 
         public ProduitItemsController(ProduitContext context)
         {
             _context = context;
-            _contexttest = _context;
         }
 
 
@@ -57,7 +56,7 @@ namespace ProduitApi
         // To protect from overposting attacks, enable the specific properties you want to bind to, for
         // more details, see https://go.microsoft.com/fwlink/?linkid=2123754.
         [HttpPut("{id}")]
-        public async Task<IActionResult> PutProduitItem(int id, ProduitItem produitItem)
+        public async Task<ActionResult<ProduitItem>> PutProduitItem(int id, ProduitItem produitItem)
         {
             if (id != produitItem.Id)
             {
@@ -81,12 +80,12 @@ namespace ProduitApi
                     throw;
                 }
             }
-            
-            NoContentResult res= NoContent();
-            Debug.WriteLine("\n\n" + res.ToString()+ "\n\n");
-           
-            return res;
-        }
+
+            //NoContentResult res= NoContent();
+
+            return produitItem;
+        
+    }
 
         // POST: api/ProduitItems
         // To protect from overposting attacks, enable the specific properties you want to bind to, for

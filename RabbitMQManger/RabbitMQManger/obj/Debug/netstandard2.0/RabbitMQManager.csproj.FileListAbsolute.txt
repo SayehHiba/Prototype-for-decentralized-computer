@@ -1,0 +1,31 @@
+C:\Users\Maroua\source\repos\RabbitMQManger\RabbitMQManger\bin\Debug\netstandard2.0\RabbitMQManager.deps.json
+C:\Users\Maroua\source\repos\RabbitMQManger\RabbitMQManger\bin\Debug\netstandard2.0\RabbitMQManager.dll
+C:\Users\Maroua\source\repos\RabbitMQManger\RabbitMQManger\obj\Debug\netstandard2.0\RabbitMQManager.csprojAssemblyReference.cache
+C:\Users\Maroua\source\repos\RabbitMQManger\RabbitMQManger\obj\Debug\netstandard2.0\RabbitMQManager.AssemblyInfoInputs.cache
+C:\Users\Maroua\source\repos\RabbitMQManger\RabbitMQManger\obj\Debug\netstandard2.0\RabbitMQManager.AssemblyInfo.cs
+D:\MPSD Projet\test2\RabbitMQManger\RabbitMQManger\bin\Debug\netstandard2.0\RabbitMQManager.deps.json
+D:\MPSD Projet\test2\RabbitMQManger\RabbitMQManger\bin\Debug\netstandard2.0\RabbitMQManager.dll
+D:\MPSD Projet\test2\RabbitMQManger\RabbitMQManger\bin\Debug\netstandard2.0\RabbitMQManager.pdb
+D:\MPSD Projet\test2\RabbitMQManger\RabbitMQManger\obj\Debug\netstandard2.0\RabbitMQManager.csprojAssemblyReference.cache
+D:\MPSD Projet\test2\RabbitMQManger\RabbitMQManger\obj\Debug\netstandard2.0\RabbitMQManager.AssemblyInfoInputs.cache
+D:\MPSD Projet\test2\RabbitMQManger\RabbitMQManger\obj\Debug\netstandard2.0\RabbitMQManager.AssemblyInfo.cs
+D:\MPSD Projet\test2\RabbitMQManger\RabbitMQManger\obj\Debug\netstandard2.0\RabbitMQManager.csproj.CoreCompileInputs.cache
+D:\MPSD Projet\test2\RabbitMQManger\RabbitMQManger\obj\Debug\netstandard2.0\RabbitMQManager.dll
+D:\MPSD Projet\test2\RabbitMQManger\RabbitMQManger\obj\Debug\netstandard2.0\RabbitMQManager.pdb
+D:\mini projet systemes distribués\RabbitMQManger\RabbitMQManger\bin\Debug\netstandard2.0\RabbitMQManager.deps.json
+D:\mini projet systemes distribués\RabbitMQManger\RabbitMQManger\bin\Debug\netstandard2.0\RabbitMQManager.dll
+D:\mini projet systemes distribués\RabbitMQManger\RabbitMQManger\bin\Debug\netstandard2.0\RabbitMQManager.pdb
+D:\mini projet systemes distribués\RabbitMQManger\RabbitMQManger\obj\Debug\netstandard2.0\RabbitMQManager.csprojAssemblyReference.cache
+D:\mini projet systemes distribués\RabbitMQManger\RabbitMQManger\obj\Debug\netstandard2.0\RabbitMQManager.AssemblyInfoInputs.cache
+D:\mini projet systemes distribués\RabbitMQManger\RabbitMQManger\obj\Debug\netstandard2.0\RabbitMQManager.AssemblyInfo.cs
+D:\mini projet systemes distribués\RabbitMQManger\RabbitMQManger\obj\Debug\netstandard2.0\RabbitMQManager.csproj.CoreCompileInputs.cache
+D:\mini projet systemes distribués\RabbitMQManger\RabbitMQManger\obj\Debug\netstandard2.0\RabbitMQManager.dll
+D:\mini projet systemes distribués\RabbitMQManger\RabbitMQManger\obj\Debug\netstandard2.0\RabbitMQManager.pdb
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\RabbitMQManger\RabbitMQManger\bin\Debug\netstandard2.0\RabbitMQManager.deps.json
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\RabbitMQManger\RabbitMQManger\bin\Debug\netstandard2.0\RabbitMQManager.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\RabbitMQManger\RabbitMQManger\bin\Debug\netstandard2.0\RabbitMQManager.pdb
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\RabbitMQManger\RabbitMQManger\obj\Debug\netstandard2.0\RabbitMQManager.AssemblyInfoInputs.cache
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\RabbitMQManger\RabbitMQManger\obj\Debug\netstandard2.0\RabbitMQManager.AssemblyInfo.cs
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\RabbitMQManger\RabbitMQManger\obj\Debug\netstandard2.0\RabbitMQManager.csproj.CoreCompileInputs.cache
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\RabbitMQManger\RabbitMQManger\obj\Debug\netstandard2.0\RabbitMQManager.dll
+C:\Users\sayeh\OneDrive\Bureau\mini projet systemes distribués\mini projet systemes distribués\RabbitMQManger\RabbitMQManger\obj\Debug\netstandard2.0\RabbitMQManager.pdb

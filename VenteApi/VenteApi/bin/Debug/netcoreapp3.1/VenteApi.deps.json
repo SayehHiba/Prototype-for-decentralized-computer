@@ -37,7 +37,10 @@
           "MySqlConnector": "1.0.1",
           "Newtonsoft.Json": "12.0.3",
           "RabbitMQ.Client": "6.2.1",
+          "RabbitMQManager": "1.0.0",
           "Swashbuckle.AspNetCore": "5.6.3",
+          "MessageConsommer": "1.0.0.0",
+          "RabbitMQManager.Reference": "1.0.0.0",
           "Microsoft.AspNetCore.Antiforgery": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Cookies": "3.1.0.0",
@@ -2743,6 +2746,28 @@
           "ref/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
       },
+      "MessageConsommer/1.0.0.0": {
+        "runtime": {
+          "MessageConsommer.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        },
+        "compile": {
+          "MessageConsommer.dll": {}
+        }
+      },
+      "RabbitMQManager.Reference/1.0.0.0": {
+        "runtime": {
+          "RabbitMQManager.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        },
+        "compile": {
+          "RabbitMQManager.dll": {}
+        }
+      },
       "Microsoft.AspNetCore.Antiforgery/3.1.0.0": {
         "compile": {
           "Microsoft.AspNetCore.Antiforgery.dll": {}
@@ -4344,6 +4369,13 @@
           "WindowsBase.dll": {}
         },
         "compileOnly": true
+      },
+      "RabbitMQManager/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3",
+          "RabbitMQ.Client": "6.2.1"
+        },
+        "compileOnly": true
       }
     }
   },
@@ -5725,6 +5757,16 @@
       "path": "system.xml.xpath.xmldocument/4.0.1",
       "hashPath": "system.xml.xpath.xmldocument.4.0.1.nupkg.sha512"
     },
+    "MessageConsommer/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RabbitMQManager.Reference/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
     "Microsoft.AspNetCore.Antiforgery/3.1.0.0": {
       "type": "referenceassembly",
       "serviceable": false,
@@ -7057,6 +7099,11 @@
     },
     "WindowsBase/4.0.0.0": {
       "type": "referenceassembly",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RabbitMQManager/1.0.0": {
+      "type": "project",
       "serviceable": false,
       "sha512": ""
     }

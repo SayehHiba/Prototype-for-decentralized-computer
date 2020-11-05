@@ -1,5 +1,0 @@
-C:\Users\eyaka\source\repos\TraitementMessageConsommer\TraitementMessageConsommer\bin\Debug\netstandard2.0\TraitementMessageConsommer.deps.json
-C:\Users\eyaka\source\repos\TraitementMessageConsommer\TraitementMessageConsommer\bin\Debug\netstandard2.0\TraitementMessageConsommer.dll
-C:\Users\eyaka\source\repos\TraitementMessageConsommer\TraitementMessageConsommer\obj\Debug\netstandard2.0\TraitementMessageConsommer.csprojAssemblyReference.cache
-C:\Users\eyaka\source\repos\TraitementMessageConsommer\TraitementMessageConsommer\obj\Debug\netstandard2.0\TraitementMessageConsommer.AssemblyInfoInputs.cache
-C:\Users\eyaka\source\repos\TraitementMessageConsommer\TraitementMessageConsommer\obj\Debug\netstandard2.0\TraitementMessageConsommer.AssemblyInfo.cs
