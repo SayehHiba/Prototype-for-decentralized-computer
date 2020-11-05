@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VenteApi", "VenteApi\VenteApi.csproj", "{07F31DF4-ACF9-4F5B-8163-4AB582BABE36}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VenteApi", "VenteApi\VenteApi.csproj", "{07F31DF4-ACF9-4F5B-8163-4AB582BABE36}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RitegeQueueManager", "..\..\..\..\Downloads\pfe\pfe\besoin\RitegeQueueManager\RitegeQueueManager\RitegeQueueManager\RitegeQueueManager.csproj", "{F101475C-8E1B-4C6B-A6E3-B678F1E1A6C3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{07F31DF4-ACF9-4F5B-8163-4AB582BABE36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07F31DF4-ACF9-4F5B-8163-4AB582BABE36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07F31DF4-ACF9-4F5B-8163-4AB582BABE36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F101475C-8E1B-4C6B-A6E3-B678F1E1A6C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F101475C-8E1B-4C6B-A6E3-B678F1E1A6C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F101475C-8E1B-4C6B-A6E3-B678F1E1A6C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F101475C-8E1B-4C6B-A6E3-B678F1E1A6C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

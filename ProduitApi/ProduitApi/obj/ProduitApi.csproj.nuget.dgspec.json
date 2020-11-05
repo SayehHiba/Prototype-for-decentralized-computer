@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sayeh\\source\\repos\\ProduitApi\\ProduitApi\\ProduitApi.csproj": {}
+    "C:\\Users\\sayeh\\source\\repos\\test\\ProduitApi\\ProduitApi\\ProduitApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sayeh\\source\\repos\\ProduitApi\\ProduitApi\\ProduitApi.csproj": {
+    "C:\\Users\\sayeh\\source\\repos\\test\\ProduitApi\\ProduitApi\\ProduitApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sayeh\\source\\repos\\ProduitApi\\ProduitApi\\ProduitApi.csproj",
+        "projectUniqueName": "C:\\Users\\sayeh\\source\\repos\\test\\ProduitApi\\ProduitApi\\ProduitApi.csproj",
         "projectName": "ProduitApi",
-        "projectPath": "C:\\Users\\sayeh\\source\\repos\\ProduitApi\\ProduitApi\\ProduitApi.csproj",
+        "projectPath": "C:\\Users\\sayeh\\source\\repos\\test\\ProduitApi\\ProduitApi\\ProduitApi.csproj",
         "packagesPath": "C:\\Users\\sayeh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sayeh\\source\\repos\\ProduitApi\\ProduitApi\\obj\\",
+        "outputPath": "C:\\Users\\sayeh\\source\\repos\\test\\ProduitApi\\ProduitApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sayeh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -91,6 +91,10 @@
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[12.0.3, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.2.1, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
