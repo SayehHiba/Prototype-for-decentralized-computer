@@ -57,7 +57,7 @@ namespace RessourcesHumaines
             app.UseSwagger();
             app.UseSwaggerUI(c =>
             {
-                c.SwaggerEndpoint(url: "/swagger/v1/swagger.json", name: "RH API 1");
+              c.SwaggerEndpoint(url: "/swagger/v1/swagger.json", name: "RH API 1");
             });
         }
     }
