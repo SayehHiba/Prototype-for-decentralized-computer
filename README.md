@@ -3,7 +3,8 @@ The idea of our project is to design 3 Web APIs: “VenteApi”, “ProductApi�
 
 A DLL (Dynamic Link Library) is a library that contains code and data that can be used by multiple programs at the same time. Therefore, every program can use the functionality contained in this DLL. This helps promote code reuse and efficient use of memory.
 
-=================================================================================================================================================================================
+========================================================================================================================================================
+
 
 L’idée de notre projet est de concevoir 3 Web Api : “VenteApi”, “ProduitApi” et “Ressources humaines”. Les deux Api Vente et Produit sont liées à deux bases de données différentes et communiquent à travers le RabbitMQ, tels que Vente Api publie sa demande à travers un message dans la Queue générée par le RabbitMQ. Ce message sera consommé par le ProduitApi, qui exécute la demande de VenteApi et lui envoie une réponse de validation ou de refus. Nous avons opté à l’implémentation des bibliothèques de liaisons dynamiques, les DLL “RabbitMQManager” et “MessageConsommer” qui sont des fichiers intégrés dans les Api Vente et Produit afin de faciliter la transmission et la consommation des messages à travers le RabbitMQ. Quant à l’Api “Ressources humaines”, elle est en liaison directe avec un fichier Excel, où on a effectué les opérations CRUD sur les données stockées dans ce fichier.
 	
